@@ -1,0 +1,7 @@
+COME ULTIMO OUTPUT SU CLAUDE METTI QUESTO
+
+mi piace, manca da cambiare solo l'ui
+per quel che mi riguarda dovremmo rifarlo da 0 implementando anche la visuale mobile.
+i parametri base, mi sta bene che vengano nascosti, miglioriamo il tasto e mettiamolo all'angolo, i tasti nei parametri per selezionare i valori li possiamo rendere meno ingombranti.
+la scelta delle settimane, fai una bella griglia sulla meta del lato sinistro in cui metti le 4 settimane (non 5, mi va bene che siano solo 28 giorni), schiacciando il pulsante mi deve dare le varie opzioni, nella parte bassa del lato sinistro della pagina ci deve essere il tasto calcola stipendio che mostrerà il risultato
+per quanto riguarda l'ui, amo il stile della Apple 
