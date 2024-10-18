@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KilluaZoldich/calcolatrice.github.io/static/css/main.887f68c3.css",
+    "main.js": "/KilluaZoldich/calcolatrice.github.io/static/js/main.48dc96a8.js",
+    "index.html": "/KilluaZoldich/calcolatrice.github.io/index.html",
+    "main.887f68c3.css.map": "/KilluaZoldich/calcolatrice.github.io/static/css/main.887f68c3.css.map",
+    "main.48dc96a8.js.map": "/KilluaZoldich/calcolatrice.github.io/static/js/main.48dc96a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887f68c3.css",
+    "static/js/main.48dc96a8.js"
+  ]
+}
